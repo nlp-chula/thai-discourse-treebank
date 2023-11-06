@@ -1,2 +1,2 @@
-# thai-discourse-treebank
-Thai Discourse Treebank
+# The Thai Discourse Treebank: Annotating and Classifying Thai Discourse Connectives
+Thai Discourse Treebank is the first and largest Thai corpus annotated with explicit discourse relations in the style of the English Penn Discourse Treebank 3 scheme. The final corpus consists of 10,602 sentences from 384 documents, 180 of which have complete annotation of discourse connectives and its two argument spans. 
