@@ -1,0 +1,1 @@
+token_idx	form	lst20_tag	pythainlp_tag	lst20_cls_tag	lst20_sent_tag	disccon_sense	child_token_idx arg_no[head_token_idx]
