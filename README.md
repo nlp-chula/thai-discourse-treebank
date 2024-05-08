@@ -7,4 +7,5 @@ Thai Discourse Treebank is the first and largest Thai corpus annotated with expl
 
 ## How to cite this dataset
 
-Ponrawee Prasertsom, Apiwat Jaroonpol, Attapol T. Rutherford (*in press*). The Thai Discourse Treebank: Annotating and Classifying Thai Discourse Connectives. *Transactions of the Association for Computational Linguistics*
+Prasertsom, P., Jaroonpol, A., & Rutherford, A. T. (2024). The Thai Discourse Treebank: Annotating and Classifying Thai Discourse Connectives. Transactions of the Association for Computational Linguistics, 12, 613-629. [Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00650/120887)
+
